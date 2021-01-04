@@ -12,6 +12,14 @@ http://www.favicon-icon-generator.com/
 
 https://davidwalsh.name/demo/fullscreen.php
 
+## frontend
+
+https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/
+
+## mobile
+
+https://flutter.dev/docs/get-started/editor?tab=vscode
+
 ## develop tools
 
 https://www.jianshu.com/p/3c87487e7121
@@ -23,6 +31,8 @@ http://hotu.co/cv/
 https://blog.sebastian-daschner.com/
 
 http://yanhaijing.com/es5/#null
+
+https://www.imooc.com/article/21975?block_id=tuijian_wz
 
 ## python
 
@@ -56,6 +66,8 @@ http://drop.zone.ci/
 
 http://wy.zone.ci/corp_detail.php?corp=taou.com
 
+https://www.bugbank.cn/live/?id=109769
+
 ## github
 
 https://docs.github.com/en/free-pro-team@latest/graphql/overview/explorer
@@ -82,8 +94,14 @@ https://www.discoverireland.cn/
 
 https://www.stateofthedapps.com/zh
 
+https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+
 ## mook
 
 https://www.appbrewery.co/
 
 https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
+
+## recruit
+
+https://www.qianduan.net/teng-xun-zhao-pin/
