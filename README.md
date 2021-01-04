@@ -76,6 +76,8 @@ https://testing-library.com/docs/vue-testing-library/intro/
 
 https://www.eventbrite.com/e/vuejs-global-summit-tickets-124376554623?aff=erelexpmlt
 
+- [index-as-a-key-is-an-anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
+
 ## mobile
 
 https://flutter.dev/docs/get-started/editor?tab=vscode
@@ -184,6 +186,10 @@ https://www.discoverireland.cn/
 
 https://www.pumch.cn/detail/11623.html
 
+- [Explore stars and galaxies with the Sky Maps Chrome Extension](http://deepspacemap.com/install.html?v=4.01#bookmark)
+
+http://www.hybridarc.com/portfolio/mullet/
+
 ## blockchain
 
 https://www.stateofthedapps.com/zh
@@ -221,6 +227,10 @@ http://www.01caijing.com/article/19250.htm
 https://www.caixinglobal.com/2020-08-28/trending-in-china-didis-new-ride-hailing-service---cheap-and-cheerful-or-dire-and-dreadful-netizens-decide-101598420.html
 
 https://kr-asia.com/didis-huaxiaozhu-app-suspends-services-in-beijing-after-covid-19-case
+
+- [The World’s 500+ Unicorn Companies In One Infographic](https://www.cbinsights.com/research/unicorn-startup-market-map/?tdsourcetag=s_pctim_aiomsg)
+
+- [Squaring Venture Capital Valuations with Reality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2955455)
 
 ## algorithms
 
