@@ -214,6 +214,8 @@ https://www.qianduan.net/teng-xun-zhao-pin/
 
 https://bytedance.feishu.cn/docs/doccn2X46yfEcX5ybWnqM9oWZxd
 
+http://cv.ftqq.com/?fr=github#
+
 ## AI
 
 http://zh.d2l.ai/chapter_introduction/deep-learning-intro.html
@@ -237,3 +239,13 @@ https://kr-asia.com/didis-huaxiaozhu-app-suspends-services-in-beijing-after-covi
 ## algorithms
 
 https://codeforces.com/profile/xiaowuc1
+
+## for fun
+
+http://cmtest.july-up.com/
+
+https://cm.july-up.com/
+
+## cross the wall
+
+https://yunti-21.xyz/
