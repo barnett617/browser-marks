@@ -78,6 +78,8 @@ https://www.eventbrite.com/e/vuejs-global-summit-tickets-124376554623?aff=erelex
 
 - [index-as-a-key-is-an-anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 
+- [vue3 doc](https://vue3js.cn/)
+
 ## mobile
 
 https://flutter.dev/docs/get-started/editor?tab=vscode
