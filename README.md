@@ -94,6 +94,8 @@ https://xclient.info/
 
 ## blogs
 
+https://jingine.com/hsbc-open-account-usd-transfer-rmb
+
 http://hotu.co/cv/
 
 https://blog.sebastian-daschner.com/
