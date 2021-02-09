@@ -246,6 +246,8 @@ http://cmtest.july-up.com/
 
 https://cm.july-up.com/
 
+https://explosm.net/
+
 ## cross the wall
 
 https://yunti-21.xyz/
