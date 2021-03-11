@@ -2,6 +2,8 @@
 
 ## html5
 
+http://css3lib.alloyteam.com/#progress_bar/demo2
+
 https://lzw.me/a/h5-myflyme.html
 
 http://gnipbao.github.io/h5-test/menu.html
